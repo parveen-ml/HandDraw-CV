@@ -1,4 +1,4 @@
-# 🖐️ HandDraw-CV
+# HandDraw-CV
 
 A virtual drawing app powered by computer vision — draw on screen using only your hand!  
 This Python project uses **OpenCV** and **MediaPipe** to track hand gestures and lets you:
@@ -10,7 +10,7 @@ This Python project uses **OpenCV** and **MediaPipe** to track hand gestures and
 
 ---
 
-## 🧠 Features
+## Features
 
 - Real-time hand tracking via MediaPipe
 - Custom gestures for:
@@ -22,7 +22,7 @@ This Python project uses **OpenCV** and **MediaPipe** to track hand gestures and
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - Python 3
 - OpenCV
